@@ -1,5 +1,5 @@
 from django.urls import path, include
-from account.api.views import (ProfileView)
+from account.api.views import (ProfileView, )
 
 app_name = 'account'
 urlpatterns = [
