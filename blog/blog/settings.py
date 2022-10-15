@@ -89,22 +89,6 @@ DATABASES = {
     }
 }
 
-import os
-
-#DATABASES = {
-#    'default': {
-#        'ENGINE': 'django.db.backends.postgresql',
-#        'NAME': 'postgres_db',
-#        'USER': 'postgres',
-#        'PASSWORD': 'postgres',
-#        'PORT': 5432,
-#    }
-#}
-
-#from blog.settings_local import *
-
-
-
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
 
